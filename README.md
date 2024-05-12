@@ -1,0 +1,1 @@
+## NewsPluse - Mobile Computing Project
