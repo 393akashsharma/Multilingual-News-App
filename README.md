@@ -29,7 +29,7 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/news-plus.git`
+1. Clone the repository: `git clone https://github.com/rashidiiitd/news-plus.git`
 2. Open the project in Android Studio.
 3. Run the app on an Android device or emulator.
 
@@ -37,9 +37,7 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 
 We welcome contributions from the community! If you have ideas for improvements, bug fixes, or new features, please submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
