@@ -8,7 +8,7 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 - **Search Functionality:** Find specific articles based on keywords, topics, sources, or dates, with advanced search filters for refined results.
 - **Bookmark and Save:** Save your favorite articles for later reading and offline access, organized within a dedicated bookmarks section.
 - **Inshorts-like Experience:** Enjoy a quick and engaging news browsing experience inspired by Instagram reels, perfect for users on the go.
-- **Accessibility Features:** Ensure the app is accessible to all users with features like screen reader compatibility, text resizing, and high contrast modes.
+- **Accessibility Features:** Ensure the app is accessible to all users with features like screen reader compatibility, text resizing, and high contrast modes .
 
 ## Technologies Used
 
