@@ -1,4 +1,4 @@
-# News Plus - Your Ultimate News App
+# Multilingual News App - Your Ultimate News App
 
 Welcome to News Plus, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
 
@@ -29,7 +29,7 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/rashidiiitd/news-plus.git`
+1. Clone the repository: `git clone https://github.com/393akashsharma/Multilingual-News-App`
 2. Open the project in Android Studio.
 3. Run the app on an Android device or emulator.
 
