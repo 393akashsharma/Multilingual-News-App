@@ -1,6 +1,6 @@
 # Multilingual News App - Your Ultimate News App
 
-Welcome to News Plus, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
+Welcome to Multilingual News App, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
 
 ## Features
 
@@ -8,7 +8,7 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 - **Search Functionality:** Find specific articles based on keywords, topics, sources, or dates, with advanced search filters for refined results.
 - **Bookmark and Save:** Save your favorite articles for later reading and offline access, organized within a dedicated bookmarks section.
 - **Inshorts-like Experience:** Enjoy a quick and engaging news browsing experience inspired by Instagram reels, perfect for users on the go.
-- **Accessibility Features:** Ensure the app is accessible to all users with features like screen reader compatibility, text resizing, and high contrast modes .
+- **Accessibility Features:** Ensure the app is accessible to all users with features like screen reader compatibility, text resizing, and high contrast modes.
 
 ## Technologies Used
 
@@ -27,6 +27,13 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 - Real-time Updates
 - Enhanced Search and Filtering
 
+## Development Highlights
+
+- Developed a multilingual news application that fetches news from various APIs and displays it in multiple languages based on user location.
+- Implemented location-based news fetching and automatic language translation to deliver news in the user's native language.
+- Added short video summaries for news articles, enhancing user engagement and understanding.
+- Provided a bookmark feature for users to save and revisit their favorite news articles.
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/393akashsharma/Multilingual-News-App`
@@ -37,8 +44,6 @@ Welcome to News Plus, a modern and feature-rich news application designed to kee
 
 We welcome contributions from the community! If you have ideas for improvements, bug fixes, or new features, please submit a pull request or open an issue.
 
-
-
 ---
 
-**News Plus** is developed by Rashid, Akash, Prakhar, and Bhatia. Visit our [GitHub repository](https://github.com/yourusername/news-plus) for more details.
+**Multilingual News App** is developed by Rashid, Akash, Prakhar, and Bhatia. Visit our [GitHub repository](https://github.com/393akashsharma/Multilingual-News-App) for more details.
