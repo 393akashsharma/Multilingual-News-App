@@ -1,4 +1,4 @@
-# Multilingual News App - Your Ultimate News App
+# Bilingual News App - Your Ultimate News App
 
 Welcome to Bilingual News App, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
 
