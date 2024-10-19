@@ -1,6 +1,6 @@
 # Multilingual News App - Your Ultimate News App
 
-Welcome to Multilingual News App, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
+Welcome to Bilingual News App, a modern and feature-rich news application designed to keep you informed and engaged with the latest news updates.
 
 ## Features
 
@@ -29,14 +29,19 @@ Welcome to Multilingual News App, a modern and feature-rich news application des
 
 ## Development Highlights
 
-- Developed a multilingual news application that fetches news from various APIs and displays it in multiple languages based on user location.
+- Developed a  Bilingual news application that fetches news from various APIs and displays it in two languages based on user location.
 - Implemented location-based news fetching and automatic language translation to deliver news in the user's native language.
 - Added short video summaries for news articles, enhancing user engagement and understanding.
 - Provided a bookmark feature for users to save and revisit their favorite news articles.
 
+- Image and video of the App
+
+  ![Screenshot_2024-10-20-02-09-27-08_26935bae8bc9680ba59cfbaa4b102cbc](https://github.com/user-attachments/assets/151f68cb-5944-4463-a9e3-b865570a35bd)
+
+
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/393akashsharma/Multilingual-News-App`
+1. Clone the repository: `git clone https://github.com/393akashsharma/Bilingual-News-App`
 2. Open the project in Android Studio.
 3. Run the app on an Android device or emulator.
 
@@ -46,4 +51,4 @@ We welcome contributions from the community! If you have ideas for improvements,
 
 ---
 
-**Multilingual News App** is developed by Rashid, Akash, Prakhar, and Bhatia. Visit our [GitHub repository](https://github.com/393akashsharma/Multilingual-News-App) for more details.
+**Multilingual News App** is developed by Rashid, Akash, Prakhar, and Bhatia. Visit our [GitHub repository](https://github.com/393akashsharma/Bilingual-News-App) for more details.
