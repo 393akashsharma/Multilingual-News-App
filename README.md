@@ -36,7 +36,12 @@ Welcome to Bilingual News App, a modern and feature-rich news application design
 
 - Image and video of the App
 
-  ![Screenshot_2024-10-20-02-09-27-08_26935bae8bc9680ba59cfbaa4b102cbc](https://github.com/user-attachments/assets/151f68cb-5944-4463-a9e3-b865570a35bd)
+<img src="https://github.com/user-attachments/assets/24186463-01d4-48c8-a0ff-12bbf3281259" width="200" alt="Screenshot 1" />
+<img src="https://github.com/user-attachments/assets/958cf99a-03b7-455c-a208-37914e85753d" width="200" alt="Image 2" />
+<img src="https://github.com/user-attachments/assets/888a2a2b-a928-4dd1-9245-745e17e8a874" width="200" alt="Image 3" />
+<img src="https://github.com/user-attachments/assets/92a3ad70-ff71-4110-9c14-37d4e7bb524d" width="200" alt="Image 4" />
+<img src="https://github.com/user-attachments/assets/151f68cb-5944-4463-a9e3-b865570a35bd" width="200" alt="Screenshot 5" />
+
 
 
 ## Getting Started
