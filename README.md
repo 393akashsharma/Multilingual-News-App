@@ -44,6 +44,13 @@ Welcome to Bilingual News App, a modern and feature-rich news application design
 
 
 
+https://github.com/user-attachments/assets/5303edc1-a113-4f44-989b-cc0d08690fcb
+
+
+
+
+
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/393akashsharma/Bilingual-News-App`
